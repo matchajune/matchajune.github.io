@@ -1,0 +1,15 @@
+---
+layout: post
+title: "DBC Phase_1: Day 13"
+date: 2014-07-10 22:53:29 -0400
+---
+
+Today was an important day for phase_1 students like me; today was assessment day! Assessment day is when students take a series of challenges as an exam in order to see if students can move onto the next phase, or if students should repeat the phase.
+
+<!--more-->
+
+After a very good session of yoga, I mentally prepared for the assessments. I felt confident about the assessment because I understood everything that was happening during the past 3 weeks. However, when it was time to start the assessment, I started panicking. This was a strange thing for me to do because I am just not the type of person to panic like that. After reflecting on it hours later, it is probably because I deeply care for DBC, and writing quality code. So having to complete the assessment without much time made me anxious. However, I received a congratulatory e-mail hours later stating that I would be able to move onto phase_2!
+
+Another project was assigned today. The only rule for this week's project is that ActiveRecord must be used. For my group's project, we decided to create a duplicate version of Yelp. We decided to call it...Yilp. More than writing the code and learning ActiveRecord for the project, my group members and I were all having trouble with git workflow with the group project. I requested a lecture on git workflow on Monday which I think would help out a lot of other students as well.
+
+I absolutely love going to DBC everyday, but on the other hand, I can't wait for the weekend to rest up and brush up on any shaky topics I am having trouble with. I am very apprehensive about phase_2 because of how horrible I did with Javascript during phase_0. However, I'm sure that I will be able to work through the confusion, just like how I did with phase_1!

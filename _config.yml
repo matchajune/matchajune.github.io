@@ -1,0 +1,41 @@
+# Title of your blog; shows in the header
+name: "< julius />"
+
+# Description of your content (will only be used on Google Search)
+description: "The thoughts of an aspiring developer"
+
+# Your name. Will show in your footer + sidebar 
+author: "Julius Jung"
+
+url: "http://juljun14.github.io"
+baseurl: "/"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "I develop things. Come read about my journey and thoughts."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: juljun14
+github: juljun14
+dribbble: juljun14
+instagram: juljun14
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain:
+ga_tracking_id:
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "DBC Phase_2: Day 13"
+date: 2014-07-31 05:01:55 -0400
+---
+
+A lot of people are very stressed over assessments tomorrow, myself included. I went to Dev Bootcamp today with the intent to stay over for the night. This is because at 9:00PM, the George Washington Bridge closes all but one lane; this causes so much traffic that it took me 3 hours last time to get home. In order to beat the traffic, I need to leave Dev Bootcamp by 7:30PM. So instead of spending time traveling, I decided to pack my toiletries and head over to the school.
+
+<!--more-->
+
+## Nothing but CRUD
+
+Two cohort mates and I settled in a study room and immediately got to work on ActiveRecord many-to-many associations, CRUD, restful routing, and AJAX. From 8:30AM to now, 5:06AM, I did nothing but code. Usually, I would have given up because of how hard the material was, or because I would gladly choose sleep over all this stress. However, for the first time in my life, it's different. It's different because I love the challenges that coding brings onto me. I sometimes wish my body was able to keep up with my mind, but unfortunately isn't so.
+
+I took a break for lunch, and for the lightning talks; today was the last day of lightning talks, and I opted in to a talk on [Jekyll/Octopress](http://juliusjung.info/blog/2014/07/29/jekyll-slash-octopress-the-hackers-way-to-blog/). The students seem a little disinterested this time around, but I totally don't blame them with assessments around the corner. Even I experienced a little bit of dissonance because on one hand, I really wanted to go back to studying for the assessments, but on the other hand, I wanted to give one, last, great lightning talk before it was over. So I went up to present with the best attitude I had, and tried to follow it up with an awesome session for studying.
+
+## All nighter
+
+The last time I pulled an all nighter like this was probably in high-school. It made me reminisce the 'sleep battles' I would have with my friends where we would challenge each other to see who would stay awake longer. However, what is different then and now is that I feel **very** motivated to understand the materials. What's crazy is that I feel like I learned more in the last 24 hours than I have for the last 3 weeks...which isn't a good thing I think.
+
+{% img center /images/blog_images/sleepypuppy.gif Sleepy puppy %}
+
+## Repeat vs moving onto phase_3
+
+I hope that all this studying pays off in the end and I am able to pass onto the next phase: phase_3. There are a lot of reasons I have to take into consideration whether or not I should repeat phase_2 or move on. Some of the reasons why I want to move on are:
+
+  1. You are diluting the essence of the program if you repeat which is to intensely learn how to program within a short amount of time.
+  2. I feel like the cohort that I am a part of, the Red-Spotted Newts, is almost like family.
+  3. I upfront paid rent up until the end of August, which is when I am supposed to graduate.
+  4. Going along with reason number 3, I am running out of money really really quickly.
+
+And some of the reasons why I want to repeat are:
+
+  1. I am really getting your money's worth to be a part of Dev Bootcamp for 12 to 15 weeks, as supposed to 9 weeks.
+  2. I can solidify any topics I am a little shaky on and get all my silly questions answered when repeating.
+  3. I can enjoy the shelter of being in a school, and not have to worry about the hardships of life.
+  4. I can redo a lot of challenges I didn't do because of the lack of time.
+
+Personally, I am leaning more towards trying my best to push forward because I want to challenge the limits I set for myself. In addition, I want not only myself, but my whole cohort to succeed. I'm sure a lot of other cohort members are debating the same thing to decide whether or not to repeat. I'm sure that for whatever reasons we all choose, it will always be for the best. Good luck to us all tomorrow!
+
+{% img center /images/blog_images/sleepysherlock.gif Sleepy Sherlock %}
