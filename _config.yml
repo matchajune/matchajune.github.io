@@ -19,11 +19,6 @@ github: juljun14
 linkedin: juljun14
 instagram: juljun14
 
-# Google Analytics (you may want to changes these with yours or even delete :)
-
-ga_domain:
-ga_tracking_id:
-
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
