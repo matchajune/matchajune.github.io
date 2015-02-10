@@ -2,6 +2,7 @@
 layout: post
 title: "Migrating Over to Jekyll"
 date: 2014-06-18 20:42:57
+comments: true
 ---
 
 For the last week of Dev Bootcamp's phase_0, one of the challenges was to modify the existing 'juljun14.github.io' website and implement Jekyll for it, or to rewrite all of the HTML/CSS. I thought that learning a topic would be awesome, so I chose to attempt to implement Jekyll.
