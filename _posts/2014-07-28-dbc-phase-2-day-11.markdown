@@ -11,7 +11,7 @@ Today was the first time that I felt emotionally and physically drained. It was 
 
 ## Finding the source of the problem
 
-I feel like I am so behind. When fellow cohort mates presented their projects, I couldn't understand how they all contributed so much. In addition, as discussed [previously](http://juliusjung.info/blog/2014/07/24/dbc-phase-2-day-8/), I subconsciously keep trying to withdraw from the group; I keep finding myself wanting to go into one of the rooms and stay in there until 6:00PM. However, I just kept these feelings aside and went about the day normally.
+I feel like I am so behind. When fellow cohort mates presented their projects, I couldn't understand how they all contributed so much. In addition, as discussed [previously](http://juliusjung.info/2014/07/24/dbc-phase-2-day-8/), I subconsciously keep trying to withdraw from the group; I keep finding myself wanting to go into one of the rooms and stay in there until 6:00PM. However, I just kept these feelings aside and went about the day normally.
 
 ## Twitter API & more jQuery
 
