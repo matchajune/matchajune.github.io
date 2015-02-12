@@ -5,7 +5,7 @@ date: 2014-07-16 21:20:41
 comments: true
 ---
 
-After getting destroyed on ActiveRecord yesterday, I sadly went home to wind down by watching fun, random videos on [youtube](www.youtube.com), and out of nowhere by the beard of zeus came this epiphany of what example I can use for my presentation on many-to-many relationships; **a user has many youtube channels he/she subscribes to, and a youtube channel has many user subscriptions**.
+After getting destroyed on ActiveRecord yesterday, I sadly went home to wind down by watching fun, random videos on [youtube](https://www.youtube.com), and out of nowhere by the beard of zeus came this epiphany of what example I can use for my presentation on many-to-many relationships; **a user has many youtube channels he/she subscribes to, and a youtube channel has many user subscriptions**.
 
 So I went to [dev bootcamp's](https://socrates.devbootcamp.com/sql) SQL designer and quickly whipped up this nice schema of the many-to-many relationship.
 
