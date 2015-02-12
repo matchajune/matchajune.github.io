@@ -1,0 +1,24 @@
+---
+layout: post
+title: "DBC Phase_2: Day 14"
+date: 2014-07-31 22:21:14
+comments: true
+---
+
+Since I've finished blogging early in the morning yesterday around 5:00AM, I've been studying code. It's becoming an obsession to beautifully craft awesome code. Not only do I want to know the material, I want to completely master it.
+
+## Assessment time
+
+The phase_2 assessment started promptly at 9:00AM. I felt prepared, and promptly got working on the challenge. Unfortunately for me, there was no object-oriented JavaScript challenges in the assessment; I am slowly becoming very fond of JavaScript and liking the language more and more each day. I worked as fast and hard as I could until 12:30PM, when I had to commit the final changes to my challenge. And after completion, a fellow cohort member and I went out to quickly grab a celebratory beer!
+
+## Pitch, dark, blackness
+
+To be honest, I don't remember much of what happened after lunch. What I do remember is waking up on the couch with my MacBook Air on my lap, startled and surprised on how I got there. "This isn't good," I thought to myself. My body was starting to shut down due to the lack of sleep yesterday. A bunch of people also started to tell me I should just go home. I agreed. So I got my stuff, packed my bags, and started to head out by 5:00PM. 
+
+## But wait!
+
+On my way out, a good friend asked me if I would like to present to the previous cohort, the Caterpillars, about ActiveRecord associations. A lot of people supposedly enjoyed my lightning talks and wanted me to present the material to them on Sunday at 12:00PM. And as I always say, Dev Bootcamp isn't just about taking all the resources it provides; it's more about contributing to the community in order to make it a better, stronger place to be. Therefore, I agreed that I will drive down to Dev Bootcamp and help out the fellow Caterpillars on the associations and my fellow Newts on helping present the material.
+
+## Good night!
+
+And with that, I am going to call it an early night and get some much needed sleep. And for tomorrow? I really want to build a blackjack application. I'm pumped!

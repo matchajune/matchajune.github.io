@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Haunted"
+date: 2014-08-21 14:25:32
+comments: true
+---
+
+> Did you know the original name of Pac-man was Puck-man? You would think it's because Pac-Man looks like a yellow hockey puck, but actually it comes from the Japanese phrase paku-paku which means to flap ones mouth open and closed. They changed it over here because Puck-Man is too easy to vandalize. You know, scratch out the P and turn it into an F or whatever?
+
+In 1981, Nintendo's *Donkey Kong* introduced Jumpman, better known as Mario. In 1995, Sony released the first PlayStation in the United States, followed by the Nintendo 64 in 1996. In 2009, gamers from all over the world were launching birds from slingshots from their mobile phones in the game, *Angry Birds*. And finally, on August 22nd of 2014, we all worked hard to bring you our interpretation of Pac-man!
+
+Good morning everyone! My name is Julius, (and my name is David, and my name is Cassie, and my name is Rootul, and my name is Sid) and we all warmly introduce to you...*[HaUnTeD](http://haunted-game.herokuapp.com/)*!
+
+Out of all the technologies out there, we thought about which ones we could incorporate into our project.
+
+## Part 1: What technologies we used
+
+The first problem we had to solve was to be able to see the same game session across two computers, or even across two mobile devices.
+
+## Part 2: Firebase
+
+Once we had a solid understanding of Firebase, we needed to now start the creation of the game using Phaser, a JavaScript library.
+
+## Part 3: Phaser / TileMapping
+
+All of our code and features were in Phaser's three functions: preload, create, and update. This made our code unreadable and we wanted to start refactoring it.
+
+
+## Part 4: Refactoring // Namespacing // Object literals
+
+And now for the demonstration of the game.
+
+## Part 5: Conclusion
+
+**Play the game**

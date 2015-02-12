@@ -1,0 +1,14 @@
+---
+layout: post
+title: "DBC Phase_1: Day 10"
+date: 2014-07-07 22:05:02
+comments: true
+---
+
+The July 4th weekend was a good weekend to rest a little from coding. On Saturday, my project group and I created a program that finds the top bars in the vicinity of an inputted zip code, and texts the bars' addresses to you. We used Yelp and Twilio's API in order to do so. 
+
+I honestly thought that my group would get nowhere, especially since I felt very lost with the notion of using APIs, using model-view-controller (MVC), and SQLite databases. However, I was very surprised that we were all able to finish the project. The project was then presented today. It was very interesting to see the other group projects completed. I would never have been able to do such a project a couple of weeks ago. It seems like I am indeed improving my coding skills at DBC!
+
+Today, the curriculum took a break from Ruby, and started to go into depth using SQLite3 and modelling databases such as one to one, one to many, and many to many. My partner for today and I worked hard to model scenarios given by the challenges. What I found most interesting was how Ruby was tied into the challenges, and how my partner and I had to create Ruby classes and methods to modify existing databases that we created, all with Ruby code. I hear the word 'Active Record' being thrown around a lot and I am assuming this is all preparation for it. I am excited!
+
+I am sad that phase_1 is over this week. I definitely want to review all the material and try to keep on learning even after DBC ends. I am also excited for the new cohort to come in next week. I hope I will be able to help them out any way I can, as I was once in their shoes as well. More than concentrating so hard on coding everyday, I like forming good relationships with such awesome people. It's hard not to do so when you're being surrounded with so much talent and charisma. I hope to live up to everyone else's expectations as well.

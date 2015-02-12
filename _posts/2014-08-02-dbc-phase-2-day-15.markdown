@@ -1,0 +1,24 @@
+---
+layout: post
+title: "DBC Phase_2: Day 15"
+date: 2014-08-02 19:42:16
+comments: true
+---
+
+Another three weeks quickly flew by. I seriously don't understand how I survived another three weeks of Sinatra, Active Record, jQuery, AJAX, and JavaScript. But here I am today, going onto phase_3.
+
+## Dissonance
+
+There has been a lot of dissonance residing in me since Friday. I think the root of the feeling is because of how I don't know if I am sinking of swimming. Even when I received a pass from an instructor during my assessment reviews, that result made me have such an uneasy feeling. Dev Bootcamp always tells us to start being comfortable with the feeling of always being uncomfortable. I question if they are telling us that as an excuse to quickly review all the materials without a lot of understanding on each topic, or if that's really how we're supposed to feel.
+
+![alt text](/assets/img/dissonance.jpg "Cognitive dissonance man")
+
+I asked one of the instructors for some time, and asked for an honest opinion of where I was. In addition, I asked for an honest opinion of whether or not I was swimming along just fine. He said, "You aren't lapping, but you're swimming." We then refactored some JavaScript after on the assessment I did. I trust him with all my heart, so I then I did my best to bury the uneasy feeling aside and look forward ahead to phase_3.
+
+## Active Record presentation
+
+A couple of my cohort mates urged me to give a presentation on Active Record on Sunday. It has always been a tradition at Dev Bootcamp for the phase_2 cohort to give a presentation on Active Record to the phase_1 cohort before transitioning to the next phase. I thought that this was a good opportunity to give back to the community and work on my presentation skills. You can check out my script [here](http://juliusjung.info/blog/2014/08/02/introduction-to-active-record/). After I finished presenting, I was really happy to receive a lot of positive feedback from the phase_1 cohort, saying how the presentation helped them understand what was happening when working with Active Record. Personally, working on the presentation until late last night really helped me solidify a lot of the holes I had in my knowledge as well. As they say, "Teaching someone is the best way to learn."
+
+## Phase_3 preparation
+
+Supposedly there's a lot of topics to cover during phase_3: rails, rspec, OOJS, and more AJAX. I hope that I don't burn out. I need to just keep it together for three more weeks!! Besides, I actually enjoy the busy aspect of learning all these languages, as well as having a busy schedule. Cheers to phase_3!!!

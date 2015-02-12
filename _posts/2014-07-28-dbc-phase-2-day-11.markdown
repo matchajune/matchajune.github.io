@@ -1,0 +1,22 @@
+---
+layout: post
+title: "DBC Phase_2: Day 11"
+date: 2014-07-28 21:09:46
+comments: true
+---
+
+Today was the first time that I felt emotionally and physically drained. It was a weird to feel like that after hiberating for 12 hours on Saturday **AND** Sunday **AND** going on a nice hiking trip with my dad. Maybe it was because I felt like I fell to the depths of the sea, drowning with the copious amounts of work given to me for the last two weeks. Or maybe coding just wasn't my thing, and it took me this long to realize. Whatever it was, I had to deal with it for the rest of the day because the the day was just about to start.
+
+![alt text](/assets/img/hiking.jpg "Hiking with dad")
+
+## Finding the source of the problem
+
+I feel like I am so behind. When fellow cohort mates presented their projects, I couldn't understand how they all contributed so much. In addition, as discussed [previously](http://juliusjung.info/blog/2014/07/24/dbc-phase-2-day-8/), I subconsciously keep trying to withdraw from the group; I keep finding myself wanting to go into one of the rooms and stay in there until 6:00PM. However, I just kept these feelings aside and went about the day normally.
+
+## Twitter API & more jQuery
+
+I paired with a partner today despite my shaky confidence and lack of knowledge for being behind on the material. I did my best to contribute to the challenges; the last thing I wanted was to hold back my partner from his learning experience at Dev Bootcamp. The first challenge had to deal with changing the CSS using jQuery. The second challenge was to create a comment field where users can type comments in it. The last challenge dealt with playing around with the Twitter API. And I must say...my partner and I completed them all confidently.
+
+I don't understand how I got through the challenges, but I did. Not only that, I learned a lot of things during the day such as jQuery CSS, val, append, and other fabulous methods, using Twitter API to post to Twitter using Ruby, and ActiveRecord associations with a one-to-many relationship between users and tweets. This made me realize how happy I am that I trusted Dev Bootcamp's system. It's very hard to see past all the drowning and confusion from the material. It's also hard to trust that Dev Bootcamp will help you pull through when you're struggling that hard. However, my advice would be to not let your feelings falter. You put so much trust into Dev Bootcamp when you applied and got accepted; it is your duty to fulfill your duty and keep trying them to do their job until you successfully graduate! 
+
+![alt text](/assets/img/trust.jpg "Trust")

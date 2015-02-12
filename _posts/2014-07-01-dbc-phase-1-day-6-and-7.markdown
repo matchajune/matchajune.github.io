@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DBC Phase_1: Day 6 &amp; 7"
-date: 2014-07-01 08:33:33 -0400
+date: 2014-07-01 08:33:33
 comments: true
 ---
 

@@ -1,0 +1,144 @@
+---
+layout: post
+title: "d3.js"
+date: 2014-08-12 22:01:38
+comments: true
+---
+
+By definition, D3.js, or D3, or Data-Driven Documents, is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. 
+
+## What is d3.js
+
+It is a tool for data visualization in W3C-compliant computing, making use of the widely implemented Scalable Vector Graphics, JavaScript, HTML5, and Cascading Style Sheets standards.
+
+In other words, D3 is a JavaScript library for manipulating documents based on data, bringing the data to life using HTML, SVG, and CSS.
+
+![alt text](/assets/img/d3.jpg "D3.js")
+
+## How to use d3.js
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>D3 D3 D3</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+  </head>
+  <body>
+  </body>
+</html>
+{% endhighlight %}
+
+Unfortunately because D3 is fairly new, there aren't a lot of documentation and resources available for people that are just starting out. First thing's first. Let's add the D3 library to our ```index.html```.
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>D3 D3 D3</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+  </body>
+</html>
+{% endhighlight %}
+
+Let's create some ```div```s and style them ```blueviolet```.
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>D3 D3 D3</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    
+    <script type="text/javascript">
+    // select the divs and change the 'background-color' to 'blueviolet'
+    d3.selectAll("div")
+      .style("background-color", "blueviolet")
+    </script>
+
+  </body>
+</html>
+{% endhighlight %}
+
+The most important feature of D3 is the ability to bind data easily to web elements. Let's bind some data to the ```div```s that we created.
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>D3 D3 D3</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    
+    <script type="text/javascript">
+    // select the divs and change the 'background-color' to 'blueviolet'
+    d3.selectAll("div")
+      .style("background-color", "blueviolet")
+      // adding data and the data's width
+      .data([25,30,35,40,45])
+      .style("width", function(d){return d + "px";})
+    </script>
+
+  </body>
+</html>
+{% endhighlight %}
+
+Let's add some transition to the graphs!
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>D3 D3 D3</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    
+    <script type="text/javascript">
+    // select the divs and change the 'background-color' to 'blueviolet'
+    d3.selectAll("div")
+      .style("background-color", "blueviolet")
+      // adding data and the data's width
+      .data([25,30,35,40,45])
+      // adding transitions
+      .transition()
+      .duration(3000)
+      .style("width", function(d){return d + "px";})
+    </script>
+
+  </body>
+</html>
+{% endhighlight %}
+
+## Conclusion
+
+And that's it! We were able to bound data and do some animation with it as well! We used D3 methods like ```.style```, ```.data```, and ```.transition``` in order to manipulate data on the DOM. I find D3 fascinating, and I hope you did too! In this day and age where data is the most expensive and valued commodity, it is great to visualize the data in a beautiful and meaningful way. 
