@@ -18,3 +18,5 @@ One of the things I have learned is that relationships don't take care of themse
 ## Connections
 
 > There's a story of an Italian Billionaire when asked if he had to start over from scratch what he'd do. He replied that he'd take any job to make $500, buy a nice suit, then go to parties where he'd meet successful people. The implication being that he meet someone who'd offer him a job, share an opportunity, etc.
+
+I agree with this 100%. I hope to see where life takes me in the future!
