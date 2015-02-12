@@ -11,7 +11,7 @@ Once I arrived, the director called in for a meeting to announce exciting that w
 
 ![alt text](/assets/img/phase1_day2_kaplan.jpg "Students discussing the buyout")
 
-After the discussion, it was time for another peer session. My partner and I worked on nested arrays. For example, we would have to create a chess board with the chess pieces, or an already played board of tic-tac-toe. These challenges immediately reminded me of my favorite movie, [inception](http://www.rottentomatoes.com/m/inception/). In the movie, the characters go in a dream within a dream within a dream. Similarly, as my partner and I were creating the chess board with the pieces at the appropriate places, we had to create an array within an array.
+After the discussion, it was time for another peer session. My partner and I worked on nested arrays. For example, we would have to create a chess board with the chess pieces, or an already played board of tic-tac-toe. These challenges immediately reminded me of my favorite movie, [Inception](http://www.rottentomatoes.com/m/inception/). In the movie, the characters go in a dream within a dream within a dream. Similarly, as my partner and I were creating the chess board with the pieces at the appropriate places, we had to create an array within an array.
 
 ![alt text](/assets/img/inception.jpg "A dream within a dream")
 
