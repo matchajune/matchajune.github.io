@@ -13,7 +13,11 @@ I easily found my way over to the building by 8:20AM. I recognized faces from se
 
 We all circle up after and each student/instructor introduced himself/herself. Each person had to state his/her name, where they're from, why they chose DBC, and one quirky thing. I thought long and hard about what quirky thing I would tell everyone while each student was introducing himself/herself.
 
-> Hello! My name is Julius Jung. I am currently living right across the George Washington Bridge in Fort Lee, New Jersey. I chose DBC because more than the coding I will learn, I love how the curriculum closely ties in with emotional intelligence. And this is something that I personally hold dear to heart and hope to learn to be more aware of my emotions.
+> Hello! My name is Julius Jung. I am currently living right across the George
+> Washington Bridge in Fort Lee, New Jersey. I chose DBC because more than the 
+> coding I will learn, I love how the curriculum closely ties in with emotional
+> intelligence. And this is something that I personally hold dear to heart and 
+> hope to learn to be more aware of my emotions.
 
 "I think I did well," I thought to myself. As the introductions were coming closer to ending, I can see how anxious students were getting because of the breakfast that was going to be served after. The lion living in my stomach was also getting very anxious, grumbling ever so softly now and then.
 
