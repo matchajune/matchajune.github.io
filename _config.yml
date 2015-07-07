@@ -2,7 +2,7 @@
 name: "< julius />"
 
 # Description of your content (will only be used on Google Search)
-description: "Much thoughts"
+description: "much thoughts. so awesum. many code. wow."
 
 # Your name. Will show in your footer + sidebar 
 author: "Julius Jung"
@@ -18,6 +18,11 @@ twitter: juljun14
 github: juljun14
 linkedin: juljun14
 instagram: juljun14
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: juliusjung.info
+ga_tracking_id: UA-64860247-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
