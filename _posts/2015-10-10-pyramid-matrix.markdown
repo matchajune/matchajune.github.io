@@ -116,3 +116,24 @@ Besides refactoring the code, I'm very happy that the solution works! After subm
 If you have suggestions on how to improve thinking about the problem, or ways to refactor the solution, please let me know in the comments!
 
 One non-coding problem I had while solving this problem was that I would think of the best way to solve the problem. This would make me freeze up and not progress forward. Next time, I will just power through the problem, no matter how messy the solution. AFTER finding a solution, and only then, I will start thinking about optimization and refactoring.
+
+## Afterwards
+
+The [Pyramid Matrix](http://juliusjung.info/2015/10/10/pyramid-matrix/) challenge was so fun to solve a couple of days ago! I eagerly waited for the challenge to end so I can view other people's solutions and I was not disappointed! Here is the winning shortest solution:
+
+{% highlight javascript %}
+  p = pyramidMatrix = function(n, j) {
+    var i = n, m = []
+    while (i--) m[i] = j ? Math.min(i + 1, n - i, j, n - j + 1) : p(n, i + 1)
+    return m
+  }
+{% endhighlight %}
+
+"WHAT," I yelled out loud. I found this solution to be amazing!
+
+  * You don't need to create an empty N x N multi-dimensional array before inputting in the values; you can just create the array as you go. However, this works only for a 1 dimensional array.
+  * The solution stores the ```pyramidMatrix()``` function into the ```p``` variable to shorten the characters used when calling the function recursively. Is it best practices? Maybe not. But it's certainly cool to think about!
+  * The logic to think the ```Math.min()``` is still a little confusing to me despite the many efforts of these fellow coders [here](https://codefights.com/feed/uwL9WdLELb6QGLNRB). I would forever be grateful if anyone can explain this logic to me.
+  * I am just starting to get comfortable with using truthy / falsey values eg. ```1 === true``` and ```0 === false``` instead of always evaluating an expression and checking it to be true or false.
+
+I definitely learned a lot from this problem, and I'm excited to try other challenges in the future! I am excited to practice more in order to get good enough to solve challenges this well!
