@@ -119,7 +119,7 @@ One non-coding problem I had while solving this problem was that I would think o
 
 ## Afterwards
 
-The [Pyramid Matrix](http://juliusjung.info/2015/10/10/pyramid-matrix/) challenge was so fun to solve a couple of days ago! I eagerly waited for the challenge to end so I can view other people's solutions and I was not disappointed! Here is the winning shortest solution:
+The challenge was so fun to solve a couple of days ago! I eagerly waited for the challenge to end so I can view other people's solutions and I was not disappointed! Here is the winning shortest solution:
 
 {% highlight javascript %}
   p = pyramidMatrix = function(n, j) {
