@@ -109,7 +109,7 @@ YESSSS! So this function works! But wait...I need to go deeper. In addition, I n
   }
 {% endhighlight %}
 
-## Afterthoughts
+## Post Thoughts
 
 Besides refactoring the code, I'm very happy that the solution works! After submitting the solution and receiving a nice badge to go along with it, I saw that other coders were able to solve it in ~100 characters. As reference, my solution was ~300.
 
