@@ -5,7 +5,7 @@ date: 2015-12-11 16:00:00
 comments: true
 ---
 
-I went over with a JavaScript challenge with a fellow peer today. Let's dive right in:
+I went over a JavaScript challenge with a fellow peer today. Let's dive right in:
 
 > In this challenge, you will be taking your knowledge of JavaScript to the next level! Assume there is a teacher with a list of students and a list of their respective test scores. The teacher is providing you with this data which looks like ...
 
@@ -182,7 +182,9 @@ var gradebook = {
 };
 {% endhighlight %}
 
-Okay, so the challenge was very straightforward. Let's make it a little more challenging. There's two classes that need to be implemented: the students and the gradebook. Let's create the students class first.
+# Redoing the challenge
+
+Okay, so the challenge was very straightforward. Let's do this challenge using constructor functions now! There's two classes that need to be implemented: the students and the gradebook. Let's create the students class first.
 
 {% highlight javascript %}
 var students = ["Joseph", "Susan", "William", "Elizabeth"];
