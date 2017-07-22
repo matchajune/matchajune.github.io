@@ -7,22 +7,22 @@ description: "The journey of a passionate developer. By Julius Jung"
 # Your name. Will show in your footer + sidebar 
 author: "Julius Jung"
 
-url: "juliusjung.info"
+url: "matchajune.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "I develop things. Come read about my journey and thoughts."
 
 # Social Accounts (mine, as placeholders)
 
-twitter: juljun14
-github: juljun14
-linkedin: juljun14
-instagram: juljun14
+twitter: matchajune
+github: matchajune
+linkedin: matchajune
+instagram: matchajune
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: juliusjung.info
-ga_tracking_id: UA-64860247-1
+ga_domain:
+ga_tracking_id:
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
