@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 1"
 date: 2014-07-14 21:09:32
-comments: true
+comments: false
 ---
 
 Phase_2 has started! I had to come in a little bit earlier today to welcome the new, incoming cohort: the woolly-bear caterpillars. And just like how I was warmly welcomed on my first day of DBC, it was time to give back to the DBC community and happily welcome the wooly-bear caterpillars. We all circled around and introduced ourselves, and had a catered breakfast.

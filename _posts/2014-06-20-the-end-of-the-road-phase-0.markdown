@@ -2,7 +2,7 @@
 layout: post
 title: "The End of the Road: Phase_0"
 date: 2014-06-20 13:17:18
-comments: true
+comments: false
 ---
 
 I have exactly 3 more days until the 9 weeks of DBC's phase_0 are over. I am able to understand why DBC places great emphasis on how important phase_0 really is. In addition, there are some challenges in the beginning of the weeks of phase_0 that really make you question why you would need to read up on certain things to be able to learn how to code. For example, during the first week of phase_0, DBC had a challenge that instructed you to identify your [Gregorc Thinking Styles](http://web.cortland.edu/andersmd/learning/gregorc.htm). I thought to myself, "Why would I need to know how I think in order to learn how to code?!" I hesitantly and reluctantly took the thinking quiz as instructed, and learned that I am a abstract random thinker.

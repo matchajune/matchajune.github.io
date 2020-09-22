@@ -2,7 +2,7 @@
 layout: post
 title: "Many-to-Many Relationships in ActiveRecord"
 date: 2014-07-16 21:20:41
-comments: true
+comments: false
 ---
 
 After getting destroyed on ActiveRecord yesterday, I sadly went home to wind down by watching fun, random videos on [youtube](https://www.youtube.com), and out of nowhere by the beard of zeus came this epiphany of what example I can use for my presentation on many-to-many relationships; **a user has many youtube channels he/she subscribes to, and a youtube channel has many user subscriptions**.

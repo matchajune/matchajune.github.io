@@ -2,7 +2,7 @@
 layout: post
 title: "Post DBC Reflection"
 date: 2014-09-14 18:03:28
-comments: true
+comments: false
 ---
 
 It's been almost a month since I've graduated from DBC. A lot has been going on with my life and it's been a real mess. Hopefully I will be able to organize my thoughts to discuss about what I've been thinking / going through...

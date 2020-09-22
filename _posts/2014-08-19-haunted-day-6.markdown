@@ -2,7 +2,7 @@
 layout: post
 title: "Haunted: Day 6"
 date: 2014-08-19 13:03:36
-comments: true
+comments: false
 ---
 
 Rootul and I came into DBC this morning to find that our teammates where we left them: still coding on DBC machines, and a lot of work to show for their all-nighter. Holy moly tomatoes: Julius, Sid, and David got our computer-controlled ghosts to chase our hero, parsed the tile map JSON into an awesome board, and now it looked like a real game for the first time since we started the project. Which was great, because it was time to demo our MVP to our instructors and cohort.

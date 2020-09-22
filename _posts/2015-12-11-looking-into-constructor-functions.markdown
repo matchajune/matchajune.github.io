@@ -2,7 +2,7 @@
 layout: post
 title: "Looking Into Constructor Functions - JavaScript"
 date: 2015-12-11 16:00:00
-comments: true
+comments: false
 ---
 
 I went over a JavaScript challenge with a fellow peer today. Let's dive right in:

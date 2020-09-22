@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 2"
 date: 2014-06-24 23:12:21
-comments: true
+comments: false
 ---
 
 I had no idea of what to expect for today at DBC. However, the enthusiasm was still flowing through my veins. I get ready to head out with a quick breakfast and shower. The commute is definitely starting to get a little better. One of the reasons why is because I am starting to understand all the different exits at the Fulton St subway station stop. 

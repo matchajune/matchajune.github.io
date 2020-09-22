@@ -2,7 +2,7 @@
 layout: post
 title: "Vibe Registration Web App"
 date: 2015-03-02 10:00:00
-comments: true
+comments: false
 ---
 
 My cousin approached me with an interesting problem. He said that last year's registration for a dance competition was a little disorganized. Many teams sent different versions of the form registration back to him. This led to hours of unnecessary work to make the forms constant and organized to his liking.

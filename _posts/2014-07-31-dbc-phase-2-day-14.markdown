@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 14"
 date: 2014-07-31 22:21:14
-comments: true
+comments: false
 ---
 
 Since I've finished blogging early in the morning yesterday around 5:00AM, I've been studying code. It's becoming an obsession to beautifully craft awesome code. Not only do I want to know the material, I want to completely master it.

@@ -2,7 +2,7 @@
 layout: post
 title: "Challenge of the Day - The Pyramid Matrix"
 date: 2015-10-10 14:55:00
-comments: true
+comments: false
 ---
 
 So I received an e-mail from [CodeFights](https://codefights.com) yesterday with the e-mail subject of "*Julius can you solve today's challenge of the day?*" Well, I was intrigued; let's find out!

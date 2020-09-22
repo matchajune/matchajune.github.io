@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 14"
 date: 2014-07-12 15:04:33
-comments: true
+comments: false
 ---
 
 Today was the last day of phase_1, which also meant that it was graduation day for the phase_3 cohort. A couple of employers were to come the phase_3 cohorts' presentations. I was excited myself to see the projects. I pictured myself in their position in 6 more weeks.

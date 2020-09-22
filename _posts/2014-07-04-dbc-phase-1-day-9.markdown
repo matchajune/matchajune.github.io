@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 9"
 date: 2014-07-04 12:50:32
-comments: true
+comments: false
 ---
 
 Already two weeks have passed since phase_1 started. My superego was going absolutely crazy today. A part of it had to do with how overwhelmed I started to feel about the curriculum. I haven't completed any of the challenges on Wednesday, and today was the first time I felt like I couldn't understand the material as fast as I normally would. 

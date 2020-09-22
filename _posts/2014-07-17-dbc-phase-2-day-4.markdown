@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase 2: Day 4"
 date: 2014-07-17 21:38:53
-comments: true
+comments: false
 ---
 
 Oh no! Today was the first day in which I slept through my alarm! I woke up at 7:40AM when I should have woken up at 6:30AM. I quickly got ready and ran like I never ran before, crossed the GW Bridge, and took the A train, and ran to the building. With my heart beating for its life, I entered the building by 8:55AM. Integrity? Check.

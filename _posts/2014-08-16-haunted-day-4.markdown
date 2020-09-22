@@ -2,7 +2,7 @@
 layout: post
 title: "Haunted: Day 4"
 date: 2014-08-16 15:42:43
-comments: true
+comments: false
 ---
 
 Today proved to be another great success. Although we did not have a finished MVP, we seemed to have made a lot of progress in reaching our goal of a MVP. It was a bit disappointing that we were not able to complete all assignments as we planned. However, we are all confident that we will be able to present a great MVP on the following Monday morning. We seem to be on the right track, except for a few bumps here and there.

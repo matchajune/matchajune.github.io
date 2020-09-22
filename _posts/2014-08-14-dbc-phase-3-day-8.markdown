@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 8"
 date: 2014-08-14 08:59:14
-comments: true
+comments: false
 ---
 
 The whole day was spent anxiously waiting until 2:00PM; today was pitch day. My cohort set the record for the amount of ideas pitched which was awesome. That meant that everyone had more ideas to choose from, and filter the ideas from there.

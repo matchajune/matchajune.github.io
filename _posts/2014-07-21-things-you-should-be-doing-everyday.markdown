@@ -2,7 +2,7 @@
 layout: post
 title: "Things You Should Be Doing Everyday"
 date: 2014-07-21 22:25:53
-comments: true
+comments: false
 ---
 
 I try my best to be a sponge, soaking up all the great advice people have been telling me here and there. I tried my best to make sure I was applying the advice to my own journey as a developer. Unfortunately, other students and people may be too busy with the coding challenges, or may forget the advice told, myself included. Therefore, I want to blog and share with you what you should be doing everyday.

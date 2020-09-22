@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 4"
 date: 2014-08-07 22:49:33
-comments: true
+comments: false
 ---
 
 ...I didn't sleep because I wanted to code all right. Now, here's the crazy thing. My friends are wondering how I have so much energy. And the weird things is, I don't know! I love these all nighters, coding through the night. I think I found my zen here at Dev Bootcamp!

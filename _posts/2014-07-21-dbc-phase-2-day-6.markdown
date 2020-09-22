@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 6"
 date: 2014-07-21 21:37:03
-comments: true
+comments: false
 ---
 
 I was prepared for today. I slept at 10:00PM last night, making sure I got enough rest. This is because this week's challenges were on topics that I am not that strong in: Javascript, JQuery, and AJAX.

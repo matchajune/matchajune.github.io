@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll/Octopress: The Hacker's Way to Blog"
 date: 2014-07-29 21:48:12
-comments: true
+comments: false
 ---
 
 If life dealt you all a different hand to play with today, you could have been maybe eating a delicious lunch with your friends at Central Park, basking in the warm rays of the sun. And if life dealt me a different hand to play with today, I could have been eating a delicious bowl of [Tres Carnes](http://trescarnes.com/) for lunch at Central Park as well, basking in the warm rays of the sun...right next to you. But that wouldn't have mattered to you very much because in this scenario, I would have been just a stranger to you, that looked like he was enjoying his lunch way too much. But this all hypothetical; this isn't what happened.

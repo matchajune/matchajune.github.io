@@ -2,7 +2,7 @@
 layout: post
 title: "Challenge of the Day - Two Primes"
 date: 2015-10-14 09:46:00
-comments: true
+comments: false
 ---
 
 I wanted to try solving another challenge due to how fun the [Pyramid Matrix](http://juliusjung.info/2015/10/10/pyramid-matrix/) challenge was! Today's challenge is:

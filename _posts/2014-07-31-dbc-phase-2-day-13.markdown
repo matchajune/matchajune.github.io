@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 13"
 date: 2014-07-31 05:01:55
-comments: true
+comments: false
 ---
 
 A lot of people are very stressed over assessments tomorrow, myself included. I went to Dev Bootcamp today with the intent to stay over for the night. This is because at 9:00PM, the George Washington Bridge closes all but one lane; this causes so much traffic that it took me 3 hours last time to get home. In order to beat the traffic, I need to leave Dev Bootcamp by 7:30PM. So instead of spending time traveling, I decided to pack my toiletries and head over to the school.

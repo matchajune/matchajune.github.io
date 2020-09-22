@@ -2,7 +2,7 @@
 layout: post
 title: "Haunted: Day 3"
 date: 2014-08-15 10:32:00
-comments: true
+comments: false
 ---
 
 It took a while for us to start diving into the project this morning. Everyone was settling in and just having a typical morning filled with coffee, Dev Bootcamp check-in groups, and recapping on what was done yesterday.

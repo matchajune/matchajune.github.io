@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 5"
 date: 2014-08-08 21:26:35
-comments: true
+comments: false
 ---
 
 I knew I would be unable to wake up. I woke up at 8:45AM today because of the lack of sleep I've been getting this week. I stumbled onto my feet and quickly ran out the door. I had to decide whether or not I should drive into the city and be a few minutes late, or take the subway and be an hour late; I decided to drive in and thus ran to the car.

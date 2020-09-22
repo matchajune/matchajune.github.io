@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Jekyll"
 date: 2014-07-13 14:05:17
-comments: true
+comments: false
 ---
 
 I had some time to rest up and take a break from coding this weekend. I think of it as a celebratory break from 'graduating' phase_1. One thing that I've been trying to learn is Jekyll.

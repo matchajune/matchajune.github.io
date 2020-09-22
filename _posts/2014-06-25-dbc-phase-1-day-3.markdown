@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 3"
 date: 2014-06-25 23:35:52
-comments: true
+comments: false
 ---
 
 I slept so deeply yesterday that when I woke up this morning, I didn't know where I was for a couple of minutes. I embrace this because it means I'm pushing myself beyond my comfort zone. I quickly eat breakfast, take a shower, and quickly head out for another, exciting day at DBC.

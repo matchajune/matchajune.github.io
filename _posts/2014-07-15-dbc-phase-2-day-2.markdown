@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 2"
 date: 2014-07-15 21:55:27
-comments: true
+comments: false
 ---
 
 A rocket-ship is shaky when it first launches from Earth. However, when the rocket-ship successfully goes into orbit in space, everything is smooth sail from then on. Analogously, I feel like phase_1 was the launch phase for the rocket-ship and phase_2 is the rocket-ship orbiting in space.

@@ -2,7 +2,7 @@
 layout: post
 title: "Translate Yo!"
 date: 2014-08-11 00:00:27
-comments: true
+comments: false
 ---
 
 > One of the most fundamental characteristics of human nature is a soul’s desire to explore reality and search for meaning in the universe – the mind longs to understand. Language is the medium by which we can think about and describe our understandings of reality.

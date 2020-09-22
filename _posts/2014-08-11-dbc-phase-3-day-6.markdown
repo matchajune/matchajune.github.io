@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 6"
 date: 2014-08-11 22:27:21
-comments: true
+comments: false
 ---
 
 I am officially starting to burn out. Real hard. I can't even form cohesive sentences right now. I don't even know what to write...

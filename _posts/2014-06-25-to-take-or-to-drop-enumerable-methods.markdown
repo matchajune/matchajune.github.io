@@ -2,7 +2,7 @@
 layout: post
 title: "To Take or to Drop: Enumerable Methods"
 date: 2014-06-25 00:36:29
-comments: true
+comments: false
 ---
 
 For one of the morning activities my fellow cohort members and I had to do was to all get together in a room to discuss Ruby Enumerable methods. In particular, my group was responsible to explain ```#drop_while``` and ```#take_while```. 

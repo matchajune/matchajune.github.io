@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 7"
 date: 2014-08-12 21:16:14
-comments: true
+comments: false
 ---
 
 The air was a little tense at Dev Bootcamp today. I think a lot has to do with how tomorrow is pitch day: a day where all students and instructors pitch their ideas to phase_3 students on final project ideas they can work on. There was some discussion last Monday on what ideas the students were thinking about, but that was last Monday. I definitely thought that the cohort could have benefited more from discussing ideas today, rather than last Monday.

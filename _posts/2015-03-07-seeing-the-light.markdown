@@ -2,7 +2,7 @@
 layout: post
 title: "I See the Light!"
 date: 2015-03-07 21:28:00
-comments: true
+comments: false
 ---
 
 I made one of my 2015 resolutions to be that I open up an Instagram account and attempt to take pictures of my life; I was never a person to take pictures and put it [on the line](https://www.youtube.com/watch?v=CewJ-ihIqaM). What blew my mind apart was the fact that Instagram can be used for many other things other than pictures; users use Instagram to setup their stores, or users use Instagram as a [marketing platform](http://austenallred.com/user-acquisition/book/chapter/instagram/).

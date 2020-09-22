@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 6 &amp; 7"
 date: 2014-07-01 08:33:33
-comments: true
+comments: false
 ---
 
 I truly understand why DBC is considered more of a bootcamp learning style than a traditional one. I don't know why time seems to be going so fast. Is it because I am enjoying my time here? Or is it because I am so busy with work, trying to catch up to the current material? Either way, I find it interesting that I am not burned out at all!

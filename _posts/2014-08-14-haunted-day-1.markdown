@@ -2,7 +2,7 @@
 layout: post
 title: "Haunted: Day 1"
 date: 2014-08-14 10:42:40
-comments: true
+comments: false
 ---
 
 The groups have been formed! The group that will be working on *Haunted* consists of:

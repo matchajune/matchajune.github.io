@@ -2,7 +2,7 @@
 layout: post
 title: "d3.js"
 date: 2014-08-12 22:01:38
-comments: true
+comments: false
 ---
 
 By definition, D3.js, or D3, or Data-Driven Documents, is a JavaScript library that uses digital data to drive the creation and control of dynamic and interactive graphical forms which run in web browsers. 

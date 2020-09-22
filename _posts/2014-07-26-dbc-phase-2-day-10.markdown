@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 10"
 date: 2014-07-26 14:06:44
-comments: true
+comments: false
 ---
 
 Yesterday at DBC seemed very hazy for me. A lot of people told me that I sound sick; I feel perfectly fine though. In addition, I must have been super tired this week because I slept for 12 hours straight last night. I had check-in groups at 9:00AM, and feedback forms to fill out after the groups. Today was spent doing two things, reviewing the mock assessment on Thursday and weekly projects.

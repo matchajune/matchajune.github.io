@@ -2,7 +2,7 @@
 layout: post
 title: "Haunted: Day 5"
 date: 2014-08-17 16:23:54
-comments: true
+comments: false
 ---
 
 It’s 8 a.m. and we’re still coding. WHAT?! This project has been both fun and challenging, but most of all it has kept us up for long periods of time. Despite the difficulty and strain, we have stuck together and not lost our minds...yet. 

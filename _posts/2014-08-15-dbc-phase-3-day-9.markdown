@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_3: Day 9"
 date: 2014-08-15 00:05:16
-comments: true
+comments: false
 ---
 
 Today was spent all day on projects. We quickly dove into the tasks needed to be done. One of the group members suggested that we keep a blog on our project's [readme](https://github.com/red-spotted-newts-2014/haunted) with the hopes that potential employees would see what everyone did for the projects: the work that was done, the group dynamic, and how we approached problems we faced.

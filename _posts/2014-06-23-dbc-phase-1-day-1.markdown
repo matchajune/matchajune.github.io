@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 1"
 date: 2014-06-23 22:53:27
-comments: true
+comments: false
 ---
 
 "Oh my goodness! School tomorrow!!!" I yelled inside my head. I felt like a twelve year old again with my new backpack I bought for myself, a new Macbook Air laptop to bring so I don't have to discuss the windows desktop I have at home, and a very eager mind to venture a new chapter of my life. I went to bed early to make sure I wake up early and refreshed: a feat I wasn't able to accomplish since the hazy, summer weather began.

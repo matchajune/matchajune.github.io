@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_1: Day 8"
 date: 2014-07-02 22:08:19
-comments: true
+comments: false
 ---
 
 Wednesdays are solo optional days at DBC. I think it's good to solo on Wednesdays because all the other days you are at DBC, are you pairing with a partner. If you don't know something, or if you're stuck at a challenge, you always have your partner to fall back on. 

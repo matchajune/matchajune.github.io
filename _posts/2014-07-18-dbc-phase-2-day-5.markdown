@@ -2,7 +2,7 @@
 layout: post
 title: "DBC Phase_2: Day 5"
 date: 2014-07-19 21:38:23
-comments: true
+comments: false
 ---
 
 Today was the first day of check-ins for the Caterpillars today which made me reminisce how confused and nervous I was during my first check-ins. We split up into the assigned groups, and spent 30 minutes discussing how students were feeling this week.
