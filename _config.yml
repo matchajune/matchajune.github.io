@@ -1,8 +1,8 @@
 # Title of your blog; shows in the header
-name: "Julius Jung"
+name: "Matcha && Code"
 
 # Description of your content (will only be used on Google Search)
-description: "The journey of a passionate developer. By Julius Jung"
+description: "The journey of a curious developer. By Julius Jung"
 
 # Your name. Will show in your footer + sidebar
 author: "Julius Jung"
@@ -10,25 +10,20 @@ author: "Julius Jung"
 url: "matchajune.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I develop things. Come read about my journey and thoughts."
+author-bio: "Come read about my journey and thoughts."
 
 # Social Accounts (mine, as placeholders)
 
 github: matchajune
 linkedin: matchajune
-medium: matchajune
-instagram: matchajune
-
-# Google Analytics (you may want to changes these with yours or even delete :)
-
-ga_domain: matchajune.io
-ga_tracking_id: UA-64860247-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
+plugins:
+  - jekyll-paginate
 
 paginate: 5
 paginate_path: "/page/:num"
