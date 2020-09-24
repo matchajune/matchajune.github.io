@@ -6,6 +6,7 @@ comments: false
 ---
 
 ![alt text](/assets/img/20161117/big-data.jpg "via olap.com")
+*via olap.com*
 
 What if I told you that you were sitting on an enormous gold mine and there are tools you could use to leverage that gold mine? This gold mine is big data which you could be collecting at your restaurant. Big data may be analyzed computationally to reveal patterns, trends, and associations with the purpose optimizing operations and increasing profit margins. Some examples of big data that could be utilized in your restaurant industry include a management app on your phone in order to view live information, a food delivery app in order to reach out to more customers, or a POS system that will ultimately be one of the main sources of gathering big data. There are five vectors that describe what big data is: volume, velocity, variety, variability, and complexity.
 
@@ -41,6 +42,7 @@ Not all five vectors are necessary when working with big data; any combination o
 Big data could be a useful tool in order to understand which tastes are popular at your restaurant. This is important as you want to revise your menu by getting rid of unpopular dishes over time and add dishes that are more popular. For example, [Food Network and Wired](https://www.wired.com/2013/10/bacon-is-a-miracle-food/) conducted a study to show that many foods receive a huge increase in rating when bacon was added to a menu item. The analytics obtained from big data doesn’t just allow you to know the type of food you want to put on your menu, but also allows you to tailor the pricing and marketing efforts that go along with it. The more menu items you have on your menu that people enjoy, the greater the chances you will have happy, return customers!
 
 ![alt text](/assets/img/20161117/bacon.jpg "mmm…bacon! via wired.com")
+*mmm…bacon! via wired.com*
 
 ### Labor Management and Costs (volume, variety, variability)
 
@@ -51,6 +53,7 @@ Imagine if you knew the ratio of labor costs to sales, overtime pay, the total n
 What if there was a customer that came on a consistent basis for lunch that had dietary restrictions? What about customers that come only once? The experience that a patron receives at your restaurant by remembering his/her dietary needs is heavily correlated to the probability that the patron would return. This is important for your restaurant because it allows you to expend your limited resources on customers that have a higher probability of returning to the restaurant, as well as improving the experience the customers received with previous data stored about them.
 
 ![alt text](/assets/img/20161117/buttons.jpg "via alightsoftech.com")
+*via alightsoftech.com*
 
 There is a lot of information out there in this world and it’s easy to feel like you are drowning in too much data. However, having the right tools reduces time spent organizing, categorizing, and finally, transforming the data. All the decisions your restaurant is making will then be based off of all the historical, transformed data as opposed to making decisions off of intuitions.
 
@@ -61,6 +64,7 @@ Streetfightmag.com provides a [case study](http://streetfightmag.com/2015/08/17/
 > Fig & Olive’s guest management system has been set up to match reservations to POS data, which allows Joseph to track the dining habits and visit frequency of guests. This information is then used to run automated marketing campaigns, such as the “we miss you campaign” that Fig & Olive ran in 2014. As part of the campaign, the restaurant group offered complimentary crostini to guests who had not visited in the last 30 days. According to Venga’s own data, the campaign resulted in 300 visits and more than $36,000 in sales — 7x the cost of the program itself.
 
 ![alt text](/assets/img/20161117/fig-and-olive.jpg "Fig & Olive in Melrose Place, Los Angeles")
+*Fig & Olive in Melrose Place, Los Angeles*
 
 ___
 
@@ -71,5 +75,6 @@ Big data helps with understanding what part of your restaurant’s workflow can 
   * How many employees can be sent home during a slow period of the day in order to cut labor costs
 
 ![alt text](/assets/img/20161117/restaurant.jpg "via thesmartrestaurantproject.com")
+*via thesmartrestaurantproject.com*
 
 However, this would create a profit squeeze that a restaurant owner may be unaware of because potential profits that are not earned could also be viewed as a decrease in profits. This discrepancy between how much profit a restaurant is currently making versus how much profit a restaurant could be making is why many restaurant owners are turning to big data to answer how to widen this gap; [SMB Group](https://www.smb-gr.com/) states that 18% of small and 57% of medium businesses are already using some sort of analytical tools today!
