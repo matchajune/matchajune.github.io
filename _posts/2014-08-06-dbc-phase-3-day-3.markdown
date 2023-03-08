@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_3: Day 3"
 date: 2014-08-06 20:40:48
-comments: false
 ---
 
 Despite sleeping a little bit late yesterday, I woke up ready to take on the day today! In addition, the morning was really awesome because of the fall breeze that blew through the town. I really love the crisp, cold, air filling my lungs as I walk towards the bus. Yes, I knew that today was going to be a good day!

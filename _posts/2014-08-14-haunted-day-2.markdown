@@ -2,7 +2,6 @@
 layout: post
 title: "Haunted: Day 2"
 date: 2014-08-14 12:06:35
-comments: false
 ---
 
 We all immediately dove into the project at 9:00AM after stand-ups.

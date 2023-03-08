@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 15"
 date: 2014-08-02 19:42:16
-comments: false
 ---
 
 Another three weeks quickly flew by. I seriously don't understand how I survived another three weeks of Sinatra, Active Record, jQuery, AJAX, and JavaScript. But here I am today, going onto phase_3.

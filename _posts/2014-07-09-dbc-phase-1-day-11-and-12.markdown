@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_1: Day 11 &amp; 12"
 date: 2014-07-09 19:02:47
-comments: false
 ---
 
 For the past two days, everything is now routine: yoga, lectures, coding, 'EE', coding. I can sense the material is getting tougher. This last week of phase_1 is focusing a lot on database schemas and ActiveRecord. I am always in a confused state, but slowly trying to work through it.

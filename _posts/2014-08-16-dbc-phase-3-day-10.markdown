@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_3: Day 10"
 date: 2014-08-16 15:16:16
-comments: false
 ---
 
 Today was spent working on final projects besides one hour from 12:30PM to 1:30PM when I ate lunch.

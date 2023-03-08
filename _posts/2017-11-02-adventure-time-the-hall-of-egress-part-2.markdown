@@ -2,7 +2,6 @@
 layout: post
 title: "Adventure Time: The Hall of Egress Part 2"
 date: 2017-11-02 12:00:00
-comments: false
 ---
 
 This post is the second part of a three part series for The Hall of Egress. The first part can be found [here](https://matchajune.io/2017/11/01/adventure-time-the-hall-of-egress-part-1/).

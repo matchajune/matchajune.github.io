@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_1: Day 4 &amp; 5"
 date: 2014-06-28 14:47:34
-comments: false
 ---
 
 A lot has happened since the last time I've updated my website. A quick summary of what has happened since Wednesday:

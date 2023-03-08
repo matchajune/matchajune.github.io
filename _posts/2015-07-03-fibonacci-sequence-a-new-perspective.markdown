@@ -2,7 +2,6 @@
 layout: post
 title: "The Fibonacci Sequence"
 date: 2015-07-03 13:10:00
-comments: false
 ---
 
 I was studying some interview questions on [InterviewCake](https://www.interviewcake.com) and came across a question I thought I knew like the back of my hand:

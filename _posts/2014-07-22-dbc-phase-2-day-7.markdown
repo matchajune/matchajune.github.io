@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 7"
 date: 2014-07-22 18:50:37
-comments: false
 ---
 
 Today, we were all able to dive into code immediately upon arriving. Unfortunately, I didn't feel confident enough to pair up today although pairing is mandatory. Fortunately, I was able to pair up with a friend and go over the basics and foundations for Javascript and JQuery.

@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_3: Day 1"
 date: 2014-08-04 22:17:33
-comments: false
 ---
 
 Today was a bittersweet day for me. I am now a part of the senior cohort, the Red-Spotted Newts. The Great-Horned Owls is the new name of the new cohort coming in today. In order to prepare for their arrival, I headed over to the Dev Bootcamp space by 8:30AM.

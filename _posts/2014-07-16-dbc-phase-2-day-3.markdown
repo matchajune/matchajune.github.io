@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 3"
 date: 2014-07-16 21:02:54
-comments: false
 ---
 
 There was a lot of tension in our cohort today. I feel like it was because of the students' superego talking, as well as the material being covered in the challenges got 100x harder suddenly today. There was optional yoga for phase_2 students this morning, but only 10 students participated out of 30.

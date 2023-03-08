@@ -2,7 +2,6 @@
 layout: post
 title: "What Can Big Data Do For Your Restaurant?"
 date: 2016-11-17 12:00:00
-comments: false
 ---
 
 ![alt text](/assets/img/20161117/big-data.jpg "via olap.com")

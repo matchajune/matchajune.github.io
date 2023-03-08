@@ -2,7 +2,6 @@
 layout: post
 title: "Blue Planet II: Why You Need To Watch It"
 date: 2017-11-25 12:00:00
-comments: false
 ---
 
 ![alt text](/assets/img/20171125/blue.png "Our blue planet")

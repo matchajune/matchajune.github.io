@@ -2,7 +2,6 @@
 layout: post
 title: "Adventure Time: The Hall of Egress Part 3"
 date: 2017-11-08 12:00:00
-comments: false
 ---
 
 This post is the final chapter to the trilogy for The Hall of Egress. Here are parts [one](https://matchajune.io/2017/11/01/adventure-time-the-hall-of-egress-part-1/) and [two](https://matchajune.io/2017/11/02/adventure-time-the-hall-of-egress-part-2/) for review.

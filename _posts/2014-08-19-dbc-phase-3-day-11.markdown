@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_3: Day 11"
 date: 2014-08-19 13:05:38
-comments: false
 ---
 
 I pulled an all nighter with a couple of teammates in order to present a working MVP of our game. The downside? I started blacking out during presentations and after. This was definitely my cue to go home; I took a nap to recharge myself: just enough for me to get home.

@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_1: Day 10"
 date: 2014-07-07 22:05:02
-comments: false
 ---
 
 The July 4th weekend was a good weekend to rest a little from coding. On Saturday, my project group and I created a program that finds the top bars in the vicinity of an inputted zip code, and texts the bars' addresses to you. We used Yelp and Twilio's API in order to do so. 

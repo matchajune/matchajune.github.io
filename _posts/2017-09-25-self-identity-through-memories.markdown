@@ -2,7 +2,6 @@
 layout: post
 title: "Self Identity Through Memories"
 date: 2017-09-25 12:00:00
-comments: false
 ---
 
 As S03E08 starts, we see Rick and Morty running away from someone that wants to take the Truth Tortoise from them. While Rick and Morty are running away, Rick warns Morty not to look into the tortoise’s eyes. Morty then immediately gets nervous because of the fact that he HAS been looking into its eyes the ENTIRE time he’s been holding onto it! This ultimately leads to Morty “knowing everything” and he starts breaking down pretty hard, saying things like, “I-I can’t go on like this with the Truth Tortoise shit in my head.” Then, Rick proposes a solution…which turns out to be the thesis of this episode: altering memories.

@@ -2,7 +2,6 @@
 layout: post
 title: "Haunted: Day 7"
 date: 2014-08-20 10:31:39
-comments: false
 ---
 
 I got into the dbc space by 10:00am today and the team was ready to work.

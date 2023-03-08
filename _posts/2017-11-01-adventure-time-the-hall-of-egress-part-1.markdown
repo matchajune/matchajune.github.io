@@ -2,7 +2,6 @@
 layout: post
 title: "Adventure Time: The Hall of Egress Part 1"
 date: 2017-11-01 12:00:00
-comments: false
 ---
 
 *Adventure Time* is by far, my favorite TV show to get my mind lost in: a temporary escapism from reality as a means for satori. Although at the surface *Adventure Time* looks like a regular kids show, the show’s writers and producers are no strangers to weaving the philosophies of life and underlying metaphors into the beautiful allegories.

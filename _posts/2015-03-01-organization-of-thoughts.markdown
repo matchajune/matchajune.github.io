@@ -2,7 +2,6 @@
 layout: post
 title: "The Start of a New Journey"
 date: 2015-03-01 18:14:32
-comments: false
 ---
 
 I have been drowning with questions for the past couple of weeks. I have been researching for answers online, but never thought to organize my thoughts into a blog post...until now!

@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 9"
 date: 2014-07-24 22:00:54
-comments: false
 ---
 
 Today was mock assessment day. Although it is mentally draining to go through the mock assessment, I really love it! You get to really test yourself with what you think you have learned and what you actually have learned. It is hard to tell where you are with the material because of the pair programming you need to do everyday except Wednesdays. I personally got a little too dependent on having a partner, and today's assessment proved that to me.

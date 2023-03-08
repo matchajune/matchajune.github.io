@@ -2,12 +2,11 @@
 layout: post
 title: "Haunted: Day 1"
 date: 2014-08-14 10:42:40
-comments: false
 ---
 
 The groups have been formed! The group that will be working on *Haunted* consists of:
 
-  * [Julius Jung](https://github.com/juljun14)
+  * [Julius Jung](https://github.com/matchajune)
   * [Cassie Moy](https://github.com/cassiemoy)
   * [Rootul Patel](https://github.com/rootulp)
   * [Sid Patel](https://github.com/sidpatel13)

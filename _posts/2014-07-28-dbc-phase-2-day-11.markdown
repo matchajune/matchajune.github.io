@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 11"
 date: 2014-07-28 21:09:46
-comments: false
 ---
 
 Today was the first time that I felt emotionally and physically drained. It was a weird to feel like that after hiberating for 12 hours on Saturday **AND** Sunday **AND** going on a nice hiking trip with my dad. Maybe it was because I felt like I fell to the depths of the sea, drowning with the copious amounts of work given to me for the last two weeks. Or maybe coding just wasn't my thing, and it took me this long to realize. Whatever it was, I had to deal with it for the rest of the day because the the day was just about to start.

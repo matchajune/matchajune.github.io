@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_1: Day 13"
 date: 2014-07-10 22:53:29
-comments: false
 ---
 
 Today was an important day for phase_1 students like me; today was assessment day! Assessment day is when students take a series of challenges as an exam in order to see if students can move onto the next phase, or if students should repeat the phase.

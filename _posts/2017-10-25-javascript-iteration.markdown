@@ -2,7 +2,6 @@
 layout: post
 title: "Iterations in JavaScript"
 date: 2017-10-25 19:04:25
-comments: false
 ---
 
 ## Prelude

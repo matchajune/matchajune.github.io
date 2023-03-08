@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 8"
 date: 2014-07-24 04:49:09
-comments: false
 ---
 
 Today was hump DaYyYyYY aka solo day. I spent all day on one challenge: lucky AJAX.

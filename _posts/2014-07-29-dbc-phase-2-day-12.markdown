@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_2: Day 12"
 date: 2014-07-29 21:18:27
-comments: false
 ---
 
 Not much was done today except for coding. I bought lunch on my way over to Dev Bootcamp so I wouldn't waste any time grabbing lunch during lunch hours. I asked a fellow group member to pair with me today so we can dive right into the challenges. T-minus 2 days until assessments and there's no time to waste!

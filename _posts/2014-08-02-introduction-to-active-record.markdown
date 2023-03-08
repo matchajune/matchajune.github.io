@@ -2,7 +2,6 @@
 layout: post
 title: "Introduction to Active Record"
 date: 2014-08-02 19:30:07
-comments: false
 ---
 
 I am happy to see you Caterpillars today! A lot of the phase_1 challenges involved writing a lot of SQL queries in order to get an information from the database tables. After working with a lot of SQLite3 queries, the challenges shifted towards what Dev Bootcamp calls *Ruby Land*, and attempted to show the differences between *Ruby Land* and *SQL Land*.

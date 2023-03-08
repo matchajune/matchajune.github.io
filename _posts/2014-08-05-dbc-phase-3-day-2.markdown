@@ -2,7 +2,6 @@
 layout: post
 title: "DBC Phase_3: Day 2"
 date: 2014-08-05 12:38:44
-comments: false
 ---
 
 "I'm not going to go in today," I told myself. I was 90% certain. I was confirming the decision with myself while putting contact solution on my toothbrush. 15 minutes after dancing back and forth, going in and out of the shower, I kept yelling at myself for being weak. "IS THAT ALL THAT YOU'RE MADE OF JULIUS? IS THAT REALLY ALL YOU GOT?" And I stomped my two feet down and said, "NO!" So I quickly showered, got ready, and headed out like a bawse in order to go another day at Dev Bootcamp!
