@@ -86,3 +86,29 @@ code {
 .highlight .vg { color: #268BD2 } /* Name.Variable.Global */
 .highlight .vi { color: #268BD2 } /* Name.Variable.Instance */
 .highlight .il { color: #2AA198 } /* Literal.Number.Integer.Long */
+
+// New code blocks are highlighted by Prism, using the same Solarized Light colors.
+.highlight .token.comment,
+.highlight .token.prolog,
+.highlight .token.doctype,
+.highlight .token.cdata { color: #586E75 }
+.highlight .token.keyword,
+.highlight .token.operator { color: #859900 }
+.highlight .token.boolean,
+.highlight .token.constant,
+.highlight .token.entity { color: #CB4B16 }
+.highlight .token.number,
+.highlight .token.string,
+.highlight .token.char,
+.highlight .token.symbol,
+.highlight .token.attr-value,
+.highlight .token.template-string { color: #2AA198 }
+.highlight .token.regex { color: #DC322F }
+.highlight .token.function,
+.highlight .token.class-name,
+.highlight .token.tag,
+.highlight .token.variable { color: #268BD2 }
+.highlight .token.builtin { color: #B58900 }
+.highlight .token.punctuation,
+.highlight .token.property,
+.highlight .token.attr-name { color: #93A1A1 }

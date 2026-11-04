@@ -11,19 +11,21 @@ layout: default
         </time>
       </h5>
     </div>
-    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    <h1 class="page-title" itemprop="name headline">{{ title }}</h1>
     <div itemprop="articleBody">
       {{ content }}
     </div>
     <div class="feat">
     </div>
-    {% if page.next %}
-      <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+    {% assign newer = collections.posts | getNextCollectionItem %}
+    {% assign older = collections.posts | getPreviousCollectionItem %}
+    {% if newer %}
+      <a rel="next" href="{{ newer.url }}" id="next">
         <span class="nav-title nav-title-next">newer</span> &rarr;
       </a>
     {% endif %}
-    {% if page.previous %}
-      <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+    {% if older %}
+      <a rel="prev" href="{{ older.url }}" id="prev">
         &larr; <span class="nav-title nav-title-prev">older</span>
       </a>
     {% endif %}
