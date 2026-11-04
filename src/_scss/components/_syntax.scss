@@ -8,7 +8,7 @@
   background-color: $smoke-color;
   font-size: 80%;
   margin: $spacing-m auto;
-  overflow: scroll;
+  overflow: auto;
   color: color.adjust($text-color, $lightness: 30%);
 }
  

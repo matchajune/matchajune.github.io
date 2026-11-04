@@ -56,10 +56,10 @@ export default function (eleventyConfig) {
       }
     });
   });
-  // The site's styles depend on these .highlight wrappers.
+  // Only the outer element gets .highlight, because each .highlight draws its own box.
   const { escapeHtml } = markdown.utils;
   markdown.renderer.rules.code_block = (tokens, idx) =>
-    `<div class="highlight"><pre class="highlight"><code>${escapeHtml(tokens[idx].content)}</code></pre></div>\n`;
+    `<div class="highlight"><pre><code>${escapeHtml(tokens[idx].content)}</code></pre></div>\n`;
   // The figure is added here, not in the highlight tag: Markdown would end an HTML block
   // that starts with <figure> at the first blank line in the code.
   markdown.renderer.rules.html_block = (tokens, idx) => {
