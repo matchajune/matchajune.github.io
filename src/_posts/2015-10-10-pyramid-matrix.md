@@ -38,14 +38,14 @@ Let's use N = 4 as trial. The first thing I need to do is to create an empty 4 x
 BOOM! Okay, easy enough. Let's fill in the correct values into this matrix now. I'll start simple and just fill in the outer elements of the matrix. Well, it would definitely help if I first took a look at the indexes of the created array:
 
 > <center> [0,0] [0,1] [0,2] [0,3] <br />
-           [1,0] [1,1] [1,2] [1,3] <br />
-           [2,0] [2,1] [2,2] [2,3] <br />
-           [3,0] [3,1] [3,2] [3,3] </center>
+> [1,0] [1,1] [1,2] [1,3] <br />
+> [2,0] [2,1] [2,2] [2,3] <br />
+> [3,0] [3,1] [3,2] [3,3] </center>
 
 Well, it seems like for N = 4, any first or second sub-element within each element that contains N - 1 OR any first or second sub-element that contains 0, the initial starting index, is what makes up the initial values of 1. After filling the initial values with 1, the new inner matrix looks like this:
 
 > <center> [1,1] [1,2] <br />
-           [2,1] [2,2] </center>
+> [2,1] [2,2] </center>
 
 For this matrix, any first or second sub-element that contains (N - 1) - 1 OR any first or second sub-element that contains 0 + 1 is what makes up the outside values of 2. We can stop here since N = 2 is the *base case*.
 
@@ -71,9 +71,9 @@ And the output for this function:
 
 
 > <center> [1,1,1,1] <br />
-           [1, , ,1] <br />
-           [1, , ,1] <br />
-           [1,1,1,1] </center>
+> [1, , ,1] <br />
+> [1, , ,1] <br />
+> [1,1,1,1] </center>
 
 YESSSS! So this function works! But wait...I need to go deeper. In addition, I need to change some of the constants I used into variables. Let's fix the function:
 

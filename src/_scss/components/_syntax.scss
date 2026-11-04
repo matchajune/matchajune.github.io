@@ -1,0 +1,47 @@
+@use 'sass:color';
+@use '../base/variables' as *;
+
+.highlight { 
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  padding: $spacing-s $spacing-s;
+  background-color: $smoke-color;
+  font-size: 80%;
+  margin: $spacing-m auto;
+  overflow: auto;
+  color: color.adjust($text-color, $lightness: 30%);
+}
+ 
+code {
+  font-family: 'Courier', monospace;
+  font-size: 100%;
+  line-height: 1.5;
+}
+ 
+figure.highlight code { color: #555 }
+
+// Prism tokens, in Solarized Light colors.
+.highlight .token.comment,
+.highlight .token.prolog,
+.highlight .token.doctype,
+.highlight .token.cdata { color: #586E75 }
+.highlight .token.keyword,
+.highlight .token.operator { color: #859900 }
+.highlight .token.boolean,
+.highlight .token.constant,
+.highlight .token.entity { color: #CB4B16 }
+.highlight .token.number,
+.highlight .token.string,
+.highlight .token.char,
+.highlight .token.symbol,
+.highlight .token.attr-value,
+.highlight .token.template-string { color: #2AA198 }
+.highlight .token.regex { color: #DC322F }
+.highlight .token.function,
+.highlight .token.class-name,
+.highlight .token.tag,
+.highlight .token.variable { color: #268BD2 }
+.highlight .token.builtin { color: #B58900 }
+.highlight .token.punctuation,
+.highlight .token.property,
+.highlight .token.attr-name { color: #93A1A1 }

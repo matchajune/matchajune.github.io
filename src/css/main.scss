@@ -1,6 +1,3 @@
----
----
-
 // Title: Hikari
 // Description: : A responsive & simple theme for Jekyll
 // Version: 2.01
@@ -9,19 +6,19 @@
 // License: MIT License http://opensource.org/licenses/MIT
 
 // Base
-@import 'base/reset';
-@import 'base/variables';
-@import 'base/utilities';
-@import 'base/global';
+@use 'base/reset';
+@use 'base/variables';
+@use 'base/utilities';
+@use 'base/global';
 
 // Components
-@import 'components/icons';
-@import 'components/syntax';
+@use 'components/icons';
+@use 'components/syntax';
 
 // Partials
-@import 'partials/header';
-@import 'partials/footer';
+@use 'partials/header';
+@use 'partials/footer';
 
 // Pages
-@import 'pages/home';
-@import 'pages/posts';
+@use 'pages/home';
+@use 'pages/posts';

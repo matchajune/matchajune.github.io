@@ -22,7 +22,7 @@ This weekend is one of the last projects that I will be doing at Dev Bootcamp. I
 > 
 > I think that the areas of discussion for today’s project went well. Fortunately, the flow of the conversation wasn’t interrupted and we were all able to contribute enough to get the ball rolling.
 > 
-> Like **** stated, we have all day to code tomorrow for this week’s project. I will do my best to get a nice, clean, working Rails skeleton pushed to master this evening. This will allow a base for all of us to start branching off and coding magical features to the project in the morning.
+> Like *\*\** stated, we have all day to code tomorrow for this week’s project. I will do my best to get a nice, clean, working Rails skeleton pushed to master this evening. This will allow a base for all of us to start branching off and coding magical features to the project in the morning.
 > 
 > Please make sure to always create a pull request when your task/feature is complete. Upon agreement and discussion if need be, I will go ahead and communicate with you all to pull the latest version of master.
 > 

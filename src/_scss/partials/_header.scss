@@ -1,3 +1,8 @@
+@use 'sass:color';
+@use '../base/variables' as *;
+@use '../base/utilities';
+@use '../base/global';
+
 header {
   width: 100%;
   background: white;
@@ -165,7 +170,7 @@ header {
     }
     p {
       font-size: 90%;
-      color: lighten($text-color, 30%);
+      color: color.adjust($text-color, $lightness: 30%);
       margin-bottom: 0;
     }
   }
@@ -177,7 +182,7 @@ header {
       text-align: left;
       margin-top: $spacing-m;
       margin-bottom: $spacing-s;
-      color: lighten($text-color, 50%);
+      color: color.adjust($text-color, $lightness: 50%);
       padding-bottom: $spacing-xs;
       border-bottom: 1px solid $border-color;
     }

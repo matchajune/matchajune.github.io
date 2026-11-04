@@ -1,12 +1,15 @@
+@use 'sass:color';
+@use '../base/variables' as *;
+
 .posts { 
   overflow: hidden;
   li { 
     display: inline-block; 
     width: 100%; 
-    border-bottom: 1px solid darken($main-color, 6%); 
+    border-bottom: 1px solid color.adjust($main-color, $lightness: -6%); 
     
     &:first-child {
-      border-top: 1px solid darken($main-color, 6%); 
+      border-top: 1px solid color.adjust($main-color, $lightness: -6%); 
     }
 
     .p-wrap {
@@ -14,10 +17,10 @@
       background: $main-color; 
       transition: all .15s ease-in;
       &:active { 
-        background: darken($main-color, 3%);
+        background: color.adjust($main-color, $lightness: -3%);
       }
       &:hover {
-        background: lighten($main-color, 3%); 
+        background: color.adjust($main-color, $lightness: 3%); 
         padding-left: $spacing-m + $spacing-s;
         &::after {
           content:'\2192'; 
@@ -38,7 +41,7 @@
     } // end .p-wrap
 
     time {
-      color: darken($main-color, 20%); 
+      color: color.adjust($main-color, $lightness: -20%); 
       padding-right: $spacing-s;
       @media (max-width: 942px) {
         display: block;
@@ -56,7 +59,7 @@
 .pagination {
   overflow: hidden;
   margin-top: 40px;
-  color: lighten($text-color, 60%);
+  color: color.adjust($text-color, $lightness: 60%);
   text-align: center;
   border: 1px solid $border-color;
 
@@ -75,6 +78,6 @@
 
   a:hover {
       text-decoration: none;
-      background-color: darken($smoke-color, 5%);
+      background-color: color.adjust($smoke-color, $lightness: -5%);
   }
 } // end .pagination
