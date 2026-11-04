@@ -1,14 +1,8 @@
-import { createHash } from "node:crypto";
-import { readFileSync } from "node:fs";
 import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import MarkdownIt from "markdown-it";
 import * as sass from "sass";
 
 const { pairedShortcode: highlightCode } = syntaxHighlight;
-
-// Rouge's markup for the code blocks that existed when the site moved from Jekyll, so they
-// keep their exact colors. Any new code block is highlighted by Prism instead.
-const rougeHighlights = JSON.parse(readFileSync(new URL("./rouge-highlights.json", import.meta.url), "utf8"));
 
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 const pad = (n) => String(n).padStart(2, "0");
@@ -62,12 +56,10 @@ export default function (eleventyConfig) {
       }
     });
   });
-  // Same code markup as Jekyll, because the site's styles depend on the .highlight wrappers.
+  // The site's styles depend on these .highlight wrappers.
   const { escapeHtml } = markdown.utils;
-  markdown.renderer.rules.code_inline = (tokens, idx) =>
-    `<code class="language-plaintext highlighter-rouge">${escapeHtml(tokens[idx].content)}</code>`;
   markdown.renderer.rules.code_block = (tokens, idx) =>
-    `<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>${escapeHtml(tokens[idx].content)}</code></pre></div></div>\n`;
+    `<div class="highlight"><pre class="highlight"><code>${escapeHtml(tokens[idx].content)}</code></pre></div>\n`;
   // The figure is added here, not in the highlight tag: Markdown would end an HTML block
   // that starts with <figure> at the first blank line in the code.
   markdown.renderer.rules.html_block = (tokens, idx) => {
@@ -103,8 +95,6 @@ export default function (eleventyConfig) {
         .join("")
         .replace(/\r\n/g, "\n")
         .replace(/^[\r\n]+|[\r\n]+$/g, "");
-      const saved = rougeHighlights[createHash("sha256").update(`${this.language}\n${code}`).digest("hex")];
-      if (saved) return `<pre class="highlight">${saved}</pre>`;
       return highlightCode(code, this.language, "", {
         trim: false,
         lineSeparator: "\n",
